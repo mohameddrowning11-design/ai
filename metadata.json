@@ -1,0 +1,5 @@
+{
+  "name": "Image Fusion Studio",
+  "description": "An application that combines two images based on a user's creative prompt using the Gemini API. Users can upload two photos, provide a detailed description of the desired outcome, and generate a new, blended image.",
+  "requestFramePermissions": []
+}
